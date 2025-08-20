@@ -2,12 +2,12 @@
 
 # 🧠 AI-based Ad Performance Predictor  
 
-This project predicts the performance of **upcoming ad creatives** (CTR & Conversions) based on past ad campaign data from **Google Ads** and **Meta Ads**.  
+This project (built using **dummy ad campaign data**) predicts the performance of **upcoming ad creatives** (CTR & Conversions) based on past campaign patterns.  
 
-It uses **Python + Machine Learning (Random Forest)** to learn from past performance and generate predictions for new ads.  
+It uses **Python + Machine Learning (Random Forest)** to learn from historical trends and generate predictions for new ads.  
 The results can also be visualized in **Power BI** dashboards.  
 
----
+
 
 ## 📌 Features
 - Train ML models (Random Forest) on past ad data  
@@ -80,11 +80,4 @@ python "Add predictor.py"
 **Vivek** – Data & AI Enthusiast
 📌 Skills: Python, Machine Learning, Power BI, Analytics
 
----
 
-```
-
----
-
-Would you like me to also **add screenshots/diagrams** (like workflow or Power BI dashboard preview) to this README so it looks more professional on GitHub?
-```
